@@ -30,7 +30,17 @@ The model is trained on a **movie review dataset** containing 50,000 reviews lab
 - **Matplotlib / Seaborn** for visualizations  
 
 ---
+## Model Performance
 
+The fine-tuned BERT model was evaluated on the IMDB movie review dataset (50,000 reviews).  
+Below are the performance metrics:
+
+- **Accuracy:** 93%  
+- **Precision:** 92%  
+- **Recall:** 94%  
+- **F1-Score:** 93%  
+
+---
 ## Installation
 
 1. **Clone the repository**
