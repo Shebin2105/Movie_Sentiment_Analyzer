@@ -6,7 +6,12 @@ The **Movie Sentiment Analyzer** is a Streamlit-based web application that allow
 This project is ideal for anyone interested in **natural language processing**, **sentiment analysis**, or building **interactive AI-powered apps**.
 
 ---
+## UI 
+<img width="1917" height="857" alt="image" src="https://github.com/user-attachments/assets/041509d2-bf9d-4c3a-b67f-672d4cdbd46d" />
+<img width="1918" height="905" alt="image" src="https://github.com/user-attachments/assets/3c35823a-e786-4e6e-870d-6701fa992a4d" />
+<img width="1918" height="908" alt="image" src="https://github.com/user-attachments/assets/c41f2d87-f7ab-4abe-9ccb-c394eb3fcb20" />
 
+---
 ## Features
 - **User-Friendly Interface**: Input any movie review and get instant sentiment analysis.  
 - **Real-Time Predictions**: The model processes text quickly and returns results in real time.  
