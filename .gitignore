@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+venv/
+env/
+*.egg-info/
+
+# IDEs
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Streamlit cache
+.streamlit/
+
+# Optional: large files (already tracked via LFS)
+# movie_sentiment_model/model.safetensors
